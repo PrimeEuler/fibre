@@ -1,0 +1,15 @@
+{
+  "name": "fibre",
+  "description": "JavaScript port of the Fibre protocol",
+  "author": "Jeremy Ebert",
+  "version": "0.0.1",
+  "dependencies": {
+        "usb": "^6.4.1"
+    },
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/PrimeEuler/fibre.git"
+   },
+   "keywords": [ "Fibre", "Odrive", "RPC", "mashalling" ],
+   "license": "MIT"
+}
