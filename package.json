@@ -2,7 +2,7 @@
   "name": "@primeeuler/fibre",
   "description": "JavaScript port of the Fibre protocol",
   "author": "Jeremy Ebert",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "dependencies": {
         "usb": "^1.6.0"
     },
